@@ -1,2 +1,2 @@
 # BP-neural-network
-BP neural network for Chemical-sensing catheters
+BP neural network for chemical-sensing catheters
